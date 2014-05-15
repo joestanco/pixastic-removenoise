@@ -1,0 +1,21 @@
+{
+    "name": "pixastic-removenoise",
+    "version": "0.0.1",
+    "main": "dist/pixastic-removenoise.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
